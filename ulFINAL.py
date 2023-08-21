@@ -4,7 +4,7 @@ import openai
 import speech_recognition as sr
 import pyttsx3
 
-key = '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'
+key = 'openaikey'
 personality = "personality.txt"
 usewhisper = True
 
