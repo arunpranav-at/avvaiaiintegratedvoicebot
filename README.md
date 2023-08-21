@@ -7,7 +7,7 @@ User-friendly graphical user interface (GUI) using the `tkinter` library. <br>
 Responsive conversation display with automatic scrolling as the chat continues. <br>
 Ability to start and stop the voice conversation using buttons in the GUI. <br><br>
 # PREREQUISTES: <br>
-Obtain an API key from OpenAI and replace "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" with your actual API key in the code. <br>
+Obtain an API key from OpenAI and replace "openaikey" with your actual API key in the code. <br>
 Install the required Python libraries using the following command:  	pip install openai speech_recognition pyttsx3  <br>
 Ensure you have a microphone connected to your system for voice input. <br><br>
 # USAGE: <br>
