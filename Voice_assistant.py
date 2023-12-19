@@ -6,7 +6,7 @@ import json
 
 personality = "personality.txt"
 usewhisper = True
-key = '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'
+key = 'key'
 
 # openAI set-up
 openai.api_key = key
